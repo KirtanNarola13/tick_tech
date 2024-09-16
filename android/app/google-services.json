@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842551672425",
+    "project_id": "reaching-47494",
+    "storage_bucket": "reaching-47494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842551672425:android:82a4dc654ac75379666cf8",
+        "android_client_info": {
+          "package_name": "com.example.reaching_tick_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN0jdUZS3NcmMx3hAjDQRYmMTRovJwkS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
